@@ -1,0 +1,61 @@
+Customer,Tenure,Monthly Charges,Contract,Internet Service,Support Calls,Churn
+C001,2,57,One year,DSL,1,No
+C002,3,64,Two year,Fiber,2,No
+C003,4,71,Month-to-month,DSL,3,Yes
+C004,5,78,One year,Fiber,4,No
+C005,6,85,Two year,DSL,5,Yes
+C006,7,92,Month-to-month,Fiber,6,Yes
+C007,8,99,One year,DSL,0,No
+C008,9,56,Two year,Fiber,1,No
+C009,10,63,Month-to-month,DSL,2,Yes
+C010,11,70,One year,Fiber,3,No
+C011,12,77,Two year,DSL,4,No
+C012,13,84,Month-to-month,Fiber,5,Yes
+C013,14,91,One year,DSL,6,Yes
+C014,15,98,Two year,Fiber,0,No
+C015,16,55,Month-to-month,DSL,1,Yes
+C016,17,62,One year,Fiber,2,No
+C017,18,69,Two year,DSL,3,No
+C018,19,76,Month-to-month,Fiber,4,Yes
+C019,20,83,One year,DSL,5,Yes
+C020,21,90,Two year,Fiber,6,Yes
+C021,22,97,Month-to-month,DSL,0,Yes
+C022,23,54,One year,Fiber,1,No
+C023,24,61,Two year,DSL,2,No
+C024,25,68,Month-to-month,Fiber,3,Yes
+C025,26,75,One year,DSL,4,No
+C026,27,82,Two year,Fiber,5,Yes
+C027,28,89,Month-to-month,DSL,6,Yes
+C028,29,96,One year,Fiber,0,No
+C029,30,53,Two year,DSL,1,No
+C030,31,60,Month-to-month,Fiber,2,Yes
+C031,32,67,One year,DSL,3,No
+C032,33,74,Two year,Fiber,4,No
+C033,34,81,Month-to-month,DSL,5,Yes
+C034,35,88,One year,Fiber,6,Yes
+C035,36,95,Two year,DSL,0,No
+C036,37,52,Month-to-month,Fiber,1,Yes
+C037,38,59,One year,DSL,2,No
+C038,39,66,Two year,Fiber,3,No
+C039,40,73,Month-to-month,DSL,4,Yes
+C040,41,80,One year,Fiber,5,Yes
+C041,42,87,Two year,DSL,6,Yes
+C042,43,94,Month-to-month,Fiber,0,Yes
+C043,44,51,One year,DSL,1,No
+C044,45,58,Two year,Fiber,2,No
+C045,46,65,Month-to-month,DSL,3,Yes
+C046,47,72,One year,Fiber,4,No
+C047,48,79,Two year,DSL,5,Yes
+C048,49,86,Month-to-month,Fiber,6,Yes
+C049,50,93,One year,DSL,0,No
+C050,51,50,Two year,Fiber,1,No
+C051,52,57,Month-to-month,DSL,2,Yes
+C052,53,64,One year,Fiber,3,No
+C053,54,71,Two year,DSL,4,No
+C054,55,78,Month-to-month,Fiber,5,Yes
+C055,56,85,One year,DSL,6,Yes
+C056,57,92,Two year,Fiber,0,No
+C057,58,99,Month-to-month,DSL,1,Yes
+C058,59,56,One year,Fiber,2,No
+C059,60,63,Two year,DSL,3,No
+C060,1,70,Month-to-month,Fiber,4,Yes
